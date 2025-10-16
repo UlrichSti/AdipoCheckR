@@ -1,0 +1,4 @@
+# ignore large analysis files
+*.rds
+*.RData
+data/
