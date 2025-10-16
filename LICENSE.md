@@ -1,9 +1,4 @@
 
-(no extension!)
-
-Then open it and **paste this text**:
-
-```text
 MIT License
 
 Copyright (c) 2025 Ulrich Stifel
