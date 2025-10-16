@@ -1,0 +1,12 @@
+Deconvolution gene matching report
+----------------------------------
+Signature file : ..\results\tables\sig_matrix.csv
+Bulk file      : ..\testdata\bulk_test.csv
+Matched genes  : 5
+
+Examples of matched genes (first 50):
+  ADIPOQ
+  CEBPA
+  FABP4
+  PDGFRA
+  PPARG

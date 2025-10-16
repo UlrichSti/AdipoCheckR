@@ -1,4 +1,21 @@
-# ignore large analysis files
+# Ignore Python environment
+venv/
+
+# Ignore Python cache
+__pycache__/
+
+# Ignore R stuff
 *.rds
 *.RData
+.Rhistory
+
+# Ignore raw data
 data/
+
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+.idea/
+*.Rproj.user
