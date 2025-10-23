@@ -3,6 +3,9 @@
 **Author:** Ulrich Stifel  
 **License:** MIT
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://adipocheckr.streamlit.app/)
+
+
 AdipoCheckR estimates adipogenic composition in **in vitro bulk RNA-seq** using a **hybrid signature-based NNLS deconvolution approach**. It quantifies the proportions of  
 **ASPC (adipose stromal progenitor cells), Preadipocytes, and mature Adipocytes** in bulk samples derived from adipogenic differentiation experiments.
 
